@@ -5,3 +5,5 @@
     - Python orientacion a objetos.
     - Python **microprocesadores**.
     - Python web (**django, flask**).
+- Cursos:
+    - LinkedIn: Python: 13h
